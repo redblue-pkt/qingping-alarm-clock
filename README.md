@@ -10,8 +10,8 @@ One-file Python CLI to control the **Qingping CGD1 Bluetooth Alarm Clock** over 
 
 This repo is built on top of other people’s heavy work:
 
-- **Base / working foundation:** https://github.com/ov1d1u/qingping_alarm_clock  
-- **Protocol/spec documentation (reverse engineering):** https://github.com/MrBoombastic/clOwOck  
+- **Base / working:** https://github.com/ov1d1u/qingping_alarm_clock  
+- **Protocol/spec documentation:** https://github.com/MrBoombastic/clOwOck  
 
 **What I did:** I mostly wrote the **`cgd1.py` one-file CLI tool**, and I patched/cleaned up parts of the code (small improvements/additions).  
 **There may still be bugs or edge cases I didn’t catch** — if something behaves wrong, assume it can be my mistake.

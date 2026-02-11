@@ -1,1 +1,1 @@
-# -qingping-alarm-clock
+# qingping-alarm-clock

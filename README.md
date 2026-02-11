@@ -111,7 +111,7 @@ ffmpeg -hide_banner -loglevel error -i "INPUT_FILE" -t 10 -ac 1 -ar 8000 -acodec
 
     INPUT_FILE = your audio file (mp3/wav/whatever)
 
-    -t 10 = cut to 10 seconds (change the number if you want)
+    -t 10 = cut to 10 seconds
 
     OUTPUT_FILE.raw = output filename you choose
 

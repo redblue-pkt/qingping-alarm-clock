@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-cgd1.py — one-file, user-friendly CLI for Qingping CGD1 (BLE)
+cgd1.py — one-file, not user-friendly CLI for Qingping CGD1 (BLE)
 
 NO subcommands. Everything is controlled with --options (as requested).
 
